@@ -203,27 +203,23 @@ Proyectos de:
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=luaolayare&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaolayare&layout=compact&hide_border=true&langs_count=8"
-/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=luaolayare&hide_border=true&area=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luaolayare&theme=github_dark"
   width="100%"
-  alt="Luis Alfredo Olaya GitHub Activity Graph"
+  alt="Luis Alfredo Olaya GitHub Profile Summary"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luaolayare&theme=github_dark"
+  height="170"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luaolayare&theme=github_dark"
+  height="170"
+  alt="Top Languages"
 />
 
 </div>
